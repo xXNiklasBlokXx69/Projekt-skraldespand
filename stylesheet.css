@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#header{
+    text-align: center;
+    background-color: #1280bf;
+    height: auto;
+    padding: 10px;
+    margin: 0px;
+}
+
+.article{
+    background-color: #1280bf;
+    min-height: 225px;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer{
+    background-color: #1280bf;
+    max-height: 50px;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+}
+
+#UNord{
+    width:30%;
+}
+
+p{
+    text-align:left;
+
+}
+
+.line{
+    float:left;
+    width:50%;
+    height: auto;
+}
+
+ul{
+    float:;
+}
